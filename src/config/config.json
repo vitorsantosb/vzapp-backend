@@ -9,5 +9,19 @@
     "enable_other_logs": true,
     "enable_fatal_logs": true,
     "enable_api_logs": true
+  },
+  "roles": {
+    "member": {
+      "name": "membros",
+      "slug": "member"
+    },
+    "administrator": {
+      "name": "administrador",
+      "slug": "administrator"
+    },
+    "systemMaster": {
+      "name": "desenvolvedor",
+      "slug": "systemMaster"
+    }
   }
 }
